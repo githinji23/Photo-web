@@ -12,7 +12,7 @@ This is a simple photography portfolio webpage showcasing my favorite photos, a 
 3. Customize with your own content
 
 ## Live Site
-[https://githinji23.github.io/project-repo-name](https://githinji23.github.io/project-Photo-web)
+(https://githinji23.github.io/photo-web)
 
 ## License
 &copy; 2025 Githinji Kioi - All Rights Reserved
